@@ -1,0 +1,14 @@
+C:\Projects\Snake\Snake\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Projects\Snake\Snake\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Projects\Snake\Snake\bin\Release\netcoreapp2.2\win10-x64\Snake.exe
+C:\Projects\Snake\Snake\bin\Release\netcoreapp2.2\win10-x64\Snake.deps.json
+C:\Projects\Snake\Snake\bin\Release\netcoreapp2.2\win10-x64\Snake.runtimeconfig.json
+C:\Projects\Snake\Snake\bin\Release\netcoreapp2.2\win10-x64\Snake.runtimeconfig.dev.json
+C:\Projects\Snake\Snake\bin\Release\netcoreapp2.2\win10-x64\Snake.dll
+C:\Projects\Snake\Snake\bin\Release\netcoreapp2.2\win10-x64\Snake.pdb
+C:\Projects\Snake\Snake\obj\Release\netcoreapp2.2\win10-x64\Snake.csprojAssemblyReference.cache
+C:\Projects\Snake\Snake\obj\Release\netcoreapp2.2\win10-x64\Snake.csproj.CoreCompileInputs.cache
+C:\Projects\Snake\Snake\obj\Release\netcoreapp2.2\win10-x64\Snake.AssemblyInfoInputs.cache
+C:\Projects\Snake\Snake\obj\Release\netcoreapp2.2\win10-x64\Snake.AssemblyInfo.cs
+C:\Projects\Snake\Snake\obj\Release\netcoreapp2.2\win10-x64\Snake.dll
+C:\Projects\Snake\Snake\obj\Release\netcoreapp2.2\win10-x64\Snake.pdb
