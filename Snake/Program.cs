@@ -155,7 +155,7 @@ namespace Snake
         {
             Console.Clear();
             Console.WriteLine(TheBoard);
-            Console.WriteLine($"Direction: {CurrentDirection} | Score: {TheBoard.Score} | Time Elapsed: {(DateTime.Now - TheBoard.Start).ToString(@"dd\.hh\:mm\:ss")}");
+            Console.WriteLine($"Direction: {CurrentDirection} | Score: {TheBoard.Score} | Time Elapsed: {(DateTime.Now - TheBoard.Start).ToString(@"dd\.hh\:mm\:ss")} | Press ESC to exit.");
         }
 
         private static async Task Delay()
